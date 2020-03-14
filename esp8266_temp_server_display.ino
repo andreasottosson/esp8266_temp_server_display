@@ -13,8 +13,8 @@
 
 // WiFi creds
 #ifndef STASSID
-#define STASSID "xxxxxx"
-#define STAPSK  "xxxxxx"
+#define STASSID ""
+#define STAPSK  ""
 #endif
 
 const char* ssid = STASSID;
